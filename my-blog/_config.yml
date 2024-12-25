@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/JessieLuo/jessieluo.github.io
-  branch: main
+  branch: hexos
